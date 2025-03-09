@@ -1,0 +1,26 @@
+{
+  "app_title": "Messaging App",
+  "login": "Login",
+  "logout": "Logout",
+  "register": "Register",
+  "not_registered": "Not registered yet?",
+  "already_registered": "Vous avez déjà un compte ?",
+  "username": "Username",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "dashboard": "Dashboard",
+  "inbox": "Inbox",
+  "toggle_theme": "Toggle Theme",
+  "language": "Language",
+  "all_fields_required": "All fields are required!",
+  "password_mismatch": "Passwords do not match!",
+  "last_ten_messages": "Last 10 Messages",
+  "most_frequent": "Most Frequent Chat Users",
+  "message_distribution": "Message Distribution",
+  "profile": "Profile",
+  "email": "email",
+  "edit_profile": "Edit Profile",
+  "username_requried":"Username is required",
+  "username_length": "Username must be at least 4 characters"
+  }
+  

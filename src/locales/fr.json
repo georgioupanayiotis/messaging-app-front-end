@@ -1,0 +1,23 @@
+{
+    "app_title": "Application de Messagerie",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "dashboard": "Tableau de bord",
+    "inbox": "Boîte de réception",
+    "toggle_theme": "Changer le Thème",
+    "language": "Langue",
+    "not_registered": "Pas encore inscrit? S'inscrire",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "last_ten_messages": "Les dix derniers messages",
+    "most_frequent": "Utilisateurs de chat les plus fréquents",
+    "message_distribution": "Distribution des messages",
+    "profile": "Profil",
+    "email": "e-mail",
+    "edit_profile": "Modifier le profil",
+    "logout": "Déconnexion",
+    "username_requried":"Le nom d'utilisateur est requis",
+    "username_length": "Le nom d'utilisateur doit contenir au moins 4 caractères",
+    "confirm_password": "Confirmez le mot de passe"
+  }
+  
