@@ -58,7 +58,7 @@ describe("Register Component", () => {
     fireEvent.click(registerButton);
 
     // Ensure validation messages appear
-    expect(screen.getByText(/username_requried/i)).toBeInTheDocument();
+    expect(screen.getByText(/username_required/i)).toBeInTheDocument();
     expect(screen.getByText(/Email is required/i)).toBeInTheDocument();
   });
 

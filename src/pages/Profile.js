@@ -42,7 +42,7 @@ const Profile = () => {
     const newErrors = {};
 
     if (!profile.username.trim()) {
-      newErrors.username = t('username_requried');
+      newErrors.username = t('username_required');
     } else if (profile.username.length < 4) {
       newErrors.username = t('username_length');
     }

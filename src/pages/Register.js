@@ -24,7 +24,7 @@ const Register = () => {
     const newErrors = {};
 
     if (!formData.username.trim()) {
-      newErrors.username = t('username_requried');
+      newErrors.username = t('username_required');
     } else if (formData.username.length < 4) {
       newErrors.username = t('username_length');
     }

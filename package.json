@@ -39,12 +39,6 @@
     "test": "jest --watchAll",
     "test:coverage": "jest --coverage --collectCoverageFrom='src/pages/**/*.{js,jsx}'"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",

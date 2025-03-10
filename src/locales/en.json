@@ -20,7 +20,8 @@
   "profile": "Profile",
   "email": "email",
   "edit_profile": "Edit Profile",
-  "username_requried":"Username is required",
+  "username_required":"Username is required",
+  "password_required":"Password is required",
   "username_length": "Username must be at least 4 characters"
   }
   

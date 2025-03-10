@@ -16,7 +16,8 @@
     "email": "e-mail",
     "edit_profile": "Modifier le profil",
     "logout": "Déconnexion",
-    "username_requried":"Le nom d'utilisateur est requis",
+    "username_required":"Le nom d'utilisateur est requis",
+    "password_required":"Le mot de passe est requis",
     "username_length": "Le nom d'utilisateur doit contenir au moins 4 caractères",
     "confirm_password": "Confirmez le mot de passe"
   }
